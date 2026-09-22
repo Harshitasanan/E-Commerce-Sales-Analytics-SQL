@@ -1,0 +1,101 @@
+product_id,product_name,category,unit_price
+1,Smartphone A,Electronics,16027
+2,Smartphone B,Electronics,14842
+3,Smartphone C,Electronics,5459
+4,Smartphone D,Electronics,4934
+5,Laptop A,Electronics,60456
+6,Laptop B,Electronics,56987
+7,Laptop C,Electronics,45609
+8,Laptop D,Electronics,46619
+9,Headphones A,Electronics,17921
+10,Headphones B,Electronics,82481
+11,Headphones C,Electronics,31296
+12,Headphones D,Electronics,51264
+13,Smartwatch A,Electronics,50099
+14,Smartwatch B,Electronics,10799
+15,Smartwatch C,Electronics,62164
+16,Smartwatch D,Electronics,43984
+17,Tablet A,Electronics,54035
+18,Tablet B,Electronics,66902
+19,Tablet C,Electronics,19892
+20,Tablet D,Electronics,78078
+21,T-Shirt A,Clothing,4602
+22,T-Shirt B,Clothing,5692
+23,T-Shirt C,Clothing,3687
+24,T-Shirt D,Clothing,5106
+25,Jeans A,Clothing,6579
+26,Jeans B,Clothing,4145
+27,Jeans C,Clothing,4660
+28,Jeans D,Clothing,5673
+29,Jacket A,Clothing,6799
+30,Jacket B,Clothing,4480
+31,Jacket C,Clothing,895
+32,Jacket D,Clothing,1134
+33,Sneakers A,Clothing,5058
+34,Sneakers B,Clothing,2317
+35,Sneakers C,Clothing,3800
+36,Sneakers D,Clothing,1477
+37,Dress A,Clothing,5220
+38,Dress B,Clothing,6215
+39,Dress C,Clothing,3177
+40,Dress D,Clothing,2217
+41,Chair A,Furniture,14546
+42,Chair B,Furniture,29845
+43,Chair C,Furniture,44739
+44,Chair D,Furniture,24185
+45,Table A,Furniture,31346
+46,Table B,Furniture,18411
+47,Table C,Furniture,44661
+48,Table D,Furniture,28588
+49,Sofa A,Furniture,12788
+50,Sofa B,Furniture,31897
+51,Sofa C,Furniture,33869
+52,Sofa D,Furniture,40048
+53,Bed A,Furniture,5314
+54,Bed B,Furniture,5674
+55,Bed C,Furniture,6456
+56,Bed D,Furniture,18193
+57,Bookshelf A,Furniture,40231
+58,Bookshelf B,Furniture,22591
+59,Bookshelf C,Furniture,44283
+60,Bookshelf D,Furniture,31952
+61,Skincare A,Beauty,2461
+62,Skincare B,Beauty,2646
+63,Skincare C,Beauty,5380
+64,Skincare D,Beauty,1329
+65,Makeup A,Beauty,1545
+66,Makeup B,Beauty,1996
+67,Makeup C,Beauty,1026
+68,Makeup D,Beauty,1312
+69,Haircare A,Beauty,4822
+70,Haircare B,Beauty,4763
+71,Haircare C,Beauty,3730
+72,Haircare D,Beauty,3305
+73,Fragrance A,Beauty,3255
+74,Fragrance B,Beauty,1656
+75,Fragrance C,Beauty,3640
+76,Fragrance D,Beauty,3453
+77,Bath A,Beauty,3122
+78,Bath B,Beauty,3535
+79,Bath C,Beauty,3178
+80,Bath D,Beauty,1189
+81,Cookware A,Home & Kitchen,14927
+82,Cookware B,Home & Kitchen,4487
+83,Cookware C,Home & Kitchen,14888
+84,Cookware D,Home & Kitchen,14749
+85,Mixer A,Home & Kitchen,4867
+86,Mixer B,Home & Kitchen,14065
+87,Mixer C,Home & Kitchen,4819
+88,Mixer D,Home & Kitchen,6459
+89,Storage A,Home & Kitchen,690
+90,Storage B,Home & Kitchen,11278
+91,Storage C,Home & Kitchen,16293
+92,Storage D,Home & Kitchen,17659
+93,Bedding A,Home & Kitchen,8468
+94,Bedding B,Home & Kitchen,1411
+95,Bedding C,Home & Kitchen,15629
+96,Bedding D,Home & Kitchen,16901
+97,Appliance A,Home & Kitchen,973
+98,Appliance B,Home & Kitchen,6541
+99,Appliance C,Home & Kitchen,8796
+100,Appliance D,Home & Kitchen,11190
