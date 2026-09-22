@@ -1,9 +1,0 @@
-E-Commerce Sales Analytics Dashboard | SQL
-
-• Analyzed 12,000+ e-commerce transaction records using SQL to evaluate sales, profit, customer behavior, product performance, and operational KPIs.
-
-• Developed 20+ SQL queries using JOINs, aggregations, CASE statements, subqueries, CTEs, and window functions to identify sales trends, top-performing products, and customer segments.
-
-• Calculated key business metrics including total sales, profit margin, average order value, repeat-customer rate, cancellation/return rate, and month-over-month sales growth.
-
-• Performed product, category, city, payment-mode, discount, and customer-level analysis to identify revenue drivers and translate transactional data into actionable business insights.
